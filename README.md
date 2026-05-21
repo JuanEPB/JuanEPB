@@ -6,7 +6,7 @@ I mainly work with technologies such as **Next.js, React, TypeScript, Supabase, 
 
 ## About Me
 
-I am interested in full stack development, API integration, database design, and building functional, scalable, and user-friendly systems.
+I am interested in API integration, database design, and building functional, scalable, and user-friendly systems.
 
 I have worked on projects related to:
 
