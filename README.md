@@ -56,12 +56,6 @@ Corporate website developed for a compressed air projects company, including a p
 
 **Technologies:** HTML, CSS, PHP, MySQL.
 
-## GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanEPB&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEPB&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Contact
 
 - GitHub: [@JuanEPB](https://github.com/JuanEPB)
